@@ -1,7 +1,9 @@
 # Interactive Game of Life
 Creating the Game of Life App in Java, using OOP Methods and a touch of GUI to make it interactive.
 
-Picture of Game
+![](GUI-Panel-Generation-0.png)
+
+![](GUI-Panel-Generation-12.png)
 
 
 
