@@ -1,0 +1,12 @@
+Testing Website https://www.cl.cam.ac.uk/teaching/1617/OOProg/ticks/life.txt
+
+The Input contain a setup for a range of senarios
+- Different sized boards
+- Different Authors and names in a random order with some having the same names and different authors
+- A variety of different setups
+
+This enabled me to test
+- How the game reacted for different senarios
+- That my ordering system for Patterns worked
+- That the code was able to read multiple different patterns from the test code and work
+- What happens if I change pattern in the middle of the game running
